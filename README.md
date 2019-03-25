@@ -1,7 +1,7 @@
 
 ## Preview
 
-[![Resume Preview](https://dannick.netlify.com/)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](https://dannick.netlify.com/)](https://dannick.netlify.com/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
